@@ -1,5 +1,5 @@
 # aunitc
-Android framework that provides unit conversion.
+Android framework that provides unit conversion
 ******
 ******
 ## To get a Git project into your build:
